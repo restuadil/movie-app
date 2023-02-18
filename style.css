@@ -5,12 +5,17 @@
     text-decoration: none;
 }
 
-nav {
+/*
+navbar
+ */
+ nav {
+    width: 100%;
     display: flex;
     justify-content: space-between;
     background-color: rgb(43, 184, 184);
     padding: 5px 0;
     box-shadow: rgb(95, 74, 74) 0px 10px 10px;
+    position: fixed;
 }
 .brand {
     font-size: 20px;
@@ -20,6 +25,7 @@ nav {
 }
 
 .navbar-find {
+    font-size: 15px;
     display: block;
     margin-top: 5px auto;
     padding: 10px 100px;
@@ -38,10 +44,11 @@ nav {
     display: flex;
 }
 .find-button {
-    background-color: rgb(117, 228, 228);
+    box-shadow: rgb(117, 228, 228) 2px 2px 1px;
     cursor: pointer;
-    padding: 10px 20px;
-    font-size: 15px;
+    padding: 10px 35px;
+    margin-left: 5px;
+    font-size: 20px;
     border-radius: 5px;
     border: white 1px solid;
 }
@@ -64,13 +71,13 @@ nav {
     color: aliceblue;
 }
 .hero-section {
-    margin-top: 5px;
+    padding-top: 50px;
     background-image: url("hero.jpg");
     background-size: cover;
     background-position: center;
-    position: relative;
     height: 400px;
     width: fit-content;
+    box-shadow: black 10px 10px 100px
 }
 .hero {
     width: 30%;
@@ -112,36 +119,48 @@ button.trailer {
     background-color: rgb(117, 228, 228);
 }
 .card-container {
+    /* background-color: azure; */
     width: 90%;
-    background-color:rgba(121, 0, 0, 0.671);
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 .card-title {
+    display: block;
     text-align: center;
-    letter-spacing: 10px;
+    letter-spacing: 30px;
+    font-size: 50px;
+    color: rgb(53, 52, 52);
+    text-shadow: 2px 2px 8px rgb(14, 233, 233);
 }
 .card {
     height: fit-content;
     width: 20%;
-    background-color: white;
-    margin: 5px 10px;
-    border-radius: 5px
+    padding: 0px 10px;
+    margin: 20px 10px;
+    border: rgb(175, 172, 172) 2px solid;
+    border-radius: 5px;
+    box-shadow: black 10px 10px 100px
 }
 :hover.card{
     box-shadow: aqua 1px 1px 5px;
 }
 .card img {
     width:90%;
+    height:50vh;
     display: block;
     margin: 0 auto;
-    padding-top: 5px;
+    padding-top: 10px;
     border-radius: 10px;
 }
 .card-content {
     text-align: center;
+}
+.plot {
+    font-weight: 100;
+    text-align: justify;
+    margin-top: 5px;
 }
 .button {
     text-align: center;
@@ -155,6 +174,7 @@ button.watch-card {
     font-size: 15px;
     border-radius: 5px;
     border: white 1px solid;
+    margin: 0 10px;
 }
 :hover.watch-card {
     background-color: rgb(25, 121, 121);
@@ -166,7 +186,24 @@ button.trailer-card {
     font-size: 15px;
     border-radius: 5px;
     border: white 1px solid;
+    margin: 0 10px;
 }
 :hover.trailer-card {
-    background-color: rgb(117, 228, 228);
+    background-color: rgb(163, 28, 28);
 }
+
+
+/* movies */
+.details {
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    text-decoration:underline;
+}
+:hover.details {
+    font-size: 20px;
+    color: rgb(68, 186, 255);
+}
+
+
+/* modal */

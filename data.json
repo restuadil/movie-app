@@ -24,7 +24,71 @@
             "Runtime": "181 min",
             "Genre": "Action, Adventure, Drama",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
-            "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
-        }
+            "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos"
+        },
+    {
+        "Title": "X2: X-Men United",
+        "Year": "2003",
+        "Rated": "PG-13",
+        "Released": "02 May 2003",
+        "Runtime": "134 min",
+        "Genre": "Action, Sci-Fi, Thriller",
+        "Director": "Bryan Singer",
+        "Writer": "Zak Penn, David Hayter, Bryan Singer",
+        "Actors": "Patrick Stewart, Hugh Jackman, Halle Berry",
+        "Plot": "When anti-mutant Colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
+        "Language": "English, German, Italian, Spanish",
+        "Country": "Canada, United States",
+        "Awards": "6 wins & 41 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_SX300.jpg"
+    },
+    {
+        "Title": "Black Panther: Wakanda Forever",
+        "Year": "2022",
+        "Rated": "PG-13",
+        "Released": "11 Nov 2022",
+        "Runtime": "161 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Ryan Coogler",
+        "Writer": "Ryan Coogler, Joe Robert Cole, Stan Lee",
+        "Actors": "Letitia Wright, Lupita Nyong'o, Danai Gurira",
+        "Plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+        "Language": "English, Xhosa, Maya, French",
+        "Country": "United States",
+        "Awards": "Nominated for 5 Oscars. 20 wins & 148 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2FlN2U2NzMtOWE2Ni00MWIyLTk3YzQtM2RjNDFkNTlhYTZmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg"
+    },
+    {
+        "Title": "Ant-Man & The Wasp: Quantum Quarantine",
+        "Year": "2020",
+        "Rated": "N/A",
+        "Released": "19 Jun 2020",
+        "Runtime": "10 min",
+        "Genre": "Animation, Short, Action",
+        "Director": "Mario Durán Araujo",
+        "Writer": "Mario Durán Araujo",
+        "Actors": "Ross K. Foad, Will Bergman, Lissa Dittmann",
+        "Plot": "Hank Pym has discovered a way to save the original Wasp, but when Ghost and Yellowjacket arrives it's up to Ant-Man and The Wasp to save her in time.",
+        "Language": "English",
+        "Country": "Mexico",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjhhZjVmMGUtMWJkMC00NzIzLTg3ZjAtYWI4NGMwOWU2NDk4XkEyXkFqcGdeQXVyMzc1MDQyNTM@._V1_SX300.jpg"
+    },
+    {
+        "Title": "Ant-Man",
+        "Year": "2015",
+        "Rated": "PG-13",
+        "Released": "17 Jul 2015",
+        "Runtime": "117 min",
+        "Genre": "Action, Comedy, Sci-Fi",
+        "Director": "Peyton Reed",
+        "Writer": "Edgar Wright, Joe Cornish, Adam McKay",
+        "Actors": "Paul Rudd, Michael Douglas, Corey Stoll",
+        "Plot": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 1 BAFTA Award4 wins & 34 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX300.jpg"
+    }
     ]
 }
