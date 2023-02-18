@@ -34,6 +34,20 @@ nav {
     text-align: center;
     text-transform: uppercase;
 }
+.find {
+    display: flex;
+}
+.find-button {
+    background-color: rgb(117, 228, 228);
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: white 1px solid;
+}
+:hover.find-button {
+    background-color: rgb(25, 121, 121);
+}
 .navbar-list{
     align-self: center;
     margin: 0 120px;
@@ -43,7 +57,7 @@ nav {
     margin: 0 20px;
     color: rgb(3, 2, 2);
 }
-:hover#about {
+:hover#movies {
     color: aliceblue;
 }
 :hover#home {
@@ -124,7 +138,7 @@ button.trailer {
     display: block;
     margin: 0 auto;
     padding-top: 5px;
-    border-radius: 10pxs;
+    border-radius: 10px;
 }
 .card-content {
     text-align: center;

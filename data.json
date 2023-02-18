@@ -1,0 +1,30 @@
+{
+    "movies":[
+        {
+            "Title": "X-Men: Days of Future Past",
+            "Year": "2014",
+            "Runtime": "132 min",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Plot": "The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNjk3MGZhMjEtOTM4NC00NzE2LTk2NzctZDc4YTUwN2E3NDhhXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "X-Men: Dark Phoenix",
+            "Year": "2019",
+            "Released": "07 Jun 2019",
+            "Genre": "Action, Adventure, Sci-Fi",
+            "Plot": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Avengers: Endgame",
+            "Year": "2019",
+            "Rated": "PG-13",
+            "Released": "26 Apr 2019",
+            "Runtime": "181 min",
+            "Genre": "Action, Adventure, Drama",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+            "Plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+        }
+    ]
+}
